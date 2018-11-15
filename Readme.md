@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Interfaces.cs](./CS/DomainComponents/Interfaces.cs) (VB: [Interfaces.vb](./VB/DomainComponents/Interfaces.vb))
+* [Program.cs](./CS/StandaloneDC/Program.cs) (VB: [Program.vb](./VB/StandaloneDC/Program.vb))
+<!-- default file list end -->
 # How to: Use Domain Components in non-XAF Applications (v10.2.3 - v13.1.12)
 
 
